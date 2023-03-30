@@ -302,11 +302,7 @@
                         "number": 3,
                         "topic": "Recurrences and Sorting"
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "04-quickselect-bst": {
                     "metadata": {
