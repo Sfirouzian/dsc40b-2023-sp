@@ -58,7 +58,14 @@
                         "topic": "Introduction",
                         "reading": "Section 1.6"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/01-intro/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/01-intro/slides-wang.pptx"
+                        }
+                    }
                 },
                 "02-time_complexity-pt_I": {
                     "metadata": {
