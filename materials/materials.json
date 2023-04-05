@@ -290,7 +290,7 @@
             "publications": {
                 "01-time_complexity": {
                     "metadata": {
-                        "date": "2023-04-11",
+                        "date": "2023-04-06",
                         "number": 1,
                         "topic": "Time Complexity Analysis",
                         "recording": null
@@ -299,7 +299,7 @@
                 },
                 "02-best_worst_time": {
                     "metadata": {
-                        "date": "2023-04-18",
+                        "date": "2023-04-13",
                         "number": 2,
                         "topic": "Time Complexity and Recurrences",
                         "recording": null
@@ -308,7 +308,7 @@
                 },
                 "03-recursion_sorting": {
                     "metadata": {
-                        "date": "2023-04-25",
+                        "date": "2023-04-20",
                         "number": 3,
                         "topic": "Recurrence Relations and Sorting",
                         "recording": null
@@ -317,7 +317,7 @@
                 },
                 "04-midterm_01_review": {
                     "metadata": {
-                        "date": "2023-05-02",
+                        "date": "2023-04-27",
                         "number": 4,
                         "topic": "Midterm 01 Review",
                         "recording": null
@@ -326,7 +326,7 @@
                 },
                 "06-graphs_bfs": {
                     "metadata": {
-                        "date": "2023-05-16",
+                        "date": "2023-05-11",
                         "number": 6,
                         "topic": "Graphs and BFS",
                         "recording": null
@@ -335,7 +335,7 @@
                 },
                 "07-dfs": {
                     "metadata": {
-                        "date": "2023-05-23",
+                        "date": "2023-05-18",
                         "number": 7,
                         "topic": "DFS",
                         "recording": null
@@ -344,7 +344,7 @@
                 },
                 "08-bellman_ford": {
                     "metadata": {
-                        "date": "2023-05-30",
+                        "date": "2023-05-25",
                         "number": 8,
                         "topic": "Bellman-Ford",
                         "recording": null
