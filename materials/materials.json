@@ -8,7 +8,9 @@
                 "optional_artifacts": [
                     "slides-marked.pdf",
                     "slides-wang.pdf",
-                    "slides-wang.pptx"
+                    "slides-wang.pptx",
+                    "slides-wang-marked.pdf",
+                    "slides-wang-marked.pptx"
                 ],
                 "metadata_schema": {
                     "optional_keys": {
@@ -64,6 +66,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/01-intro/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/01-intro/slides-wang-marked.pptx"
                         }
                     }
                 },
@@ -80,6 +85,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/02-time_complexity-pt_I/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/02-time_complexity-pt_I/slides-wang-marked.pptx"
                         }
                     }
                 },
