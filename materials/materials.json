@@ -343,6 +343,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/02-best_worst_time/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/02-best_worst_time/solution.pdf"
                         }
                     }
                 },
@@ -559,6 +562,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/01-time_complexity/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/01-time_complexity/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/01-time_complexity/template.zip"
