@@ -123,6 +123,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/04-expected_time/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/04-expected_time/slides-wang-marked.pptx"
                         }
                     }
                 },
