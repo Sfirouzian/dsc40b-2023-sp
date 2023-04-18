@@ -99,6 +99,9 @@
                         "reading": "Section 1.5"
                     },
                     "artifacts": {
+                        "slides-marked.pdf": {
+                            "path": "lectures/03-time_complexity-pt_II/slides-marked.pdf"
+                        },
                         "slides-wang.pdf": {
                             "path": "lectures/03-time_complexity-pt_II/slides-wang.pdf"
                         },
