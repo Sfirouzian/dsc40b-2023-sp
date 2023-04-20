@@ -158,7 +158,14 @@
                             }
                         ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/06-sorting/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/06-sorting/slides-wang.pptx"
+                        }
+                    }
                 },
                 "07-quickselect": {
                     "metadata": {
