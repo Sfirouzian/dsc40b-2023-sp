@@ -618,7 +618,14 @@
                         "number": 3,
                         "topic": "Recurrences and Sorting"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/03-recurrences-sorting/template.zip"
+                        }
+                    }
                 },
                 "04-quickselect-bst": {
                     "metadata": {
