@@ -379,6 +379,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/03-recursion_sorting/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/03-recursion_sorting/solution.pdf"
                         }
                     }
                 },
@@ -605,6 +608,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/02-asymptotic/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/02-asymptotic/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/02-asymptotic/template.zip"
