@@ -142,6 +142,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/05-binary_search-recurrences/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/05-binary_search-recurrences/slides-wang-marked.pptx"
                         }
                     }
                 },
