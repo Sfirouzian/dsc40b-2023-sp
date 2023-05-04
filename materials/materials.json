@@ -678,14 +678,17 @@
                 },
                 "04-quickselect-bst": {
                     "metadata": {
-                        "due": "2023-05-03 23:59:00",
-                        "released": "2023-04-27 23:59:00",
+                        "due": "2023-05-02 23:59:00",
+                        "released": "2023-04-26 23:59:00",
                         "number": 4,
                         "topic": "Quickselect and BSTs"
                     },
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/04-quickselect-bst/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/04-quickselect-bst/template.zip"
@@ -694,17 +697,24 @@
                 },
                 "05-hashing": {
                     "metadata": {
-                        "due": "2023-05-10 23:59:00",
-                        "released": "2023-05-04 23:59:00",
+                        "due": "2023-05-09 23:59:00",
+                        "released": "2023-05-03 23:59:00",
                         "number": 5,
                         "topic": "Hashing"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-hashing/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-hashing/template.zip"
+                        }
+                    }
                 },
                 "06-graphs": {
                     "metadata": {
-                        "due": "2023-05-17 23:59:00",
-                        "released": "2023-05-11 23:59:00",
+                        "due": "2023-05-16 23:59:00",
+                        "released": "2023-05-10 23:59:00",
                         "number": 6,
                         "topic": "Graph Theory and BFS"
                     },
@@ -712,8 +722,8 @@
                 },
                 "07-bfs-dfs": {
                     "metadata": {
-                        "due": "2023-05-24 23:59:00",
-                        "released": "2023-05-18 23:59:00",
+                        "due": "2023-05-23 23:59:00",
+                        "released": "2023-05-17 23:59:00",
                         "number": 7,
                         "topic": "BFS and DFS"
                     },
@@ -721,8 +731,8 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2023-05-31 23:59:00",
-                        "released": "2023-05-25 23:59:00",
+                        "due": "2023-05-30 23:59:00",
+                        "released": "2023-05-24 23:59:00",
                         "number": 8,
                         "topic": "Shortest Paths in Weighted Graphs"
                     },
