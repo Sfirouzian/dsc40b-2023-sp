@@ -765,14 +765,7 @@
                         "number": 7,
                         "topic": "BFS and DFS"
                     },
-                    "artifacts": {
-                        "homework.pdf": {
-                            "path": "homeworks/07-bfs-dfs/homework.pdf"
-                        },
-                        "template.zip": {
-                            "path": "homeworks/07-bfs-dfs/template.zip"
-                        }
-                    }
+                    "artifacts": {}
                 },
                 "08-spd": {
                     "metadata": {
