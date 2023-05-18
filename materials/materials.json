@@ -294,6 +294,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/12-bfs-pt_II/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/12-bfs-pt_II/slides-wang-marked.pptx"
                         }
                     }
                 },
@@ -485,7 +488,11 @@
                         "topic": "DFS",
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/07-dfs/discussion.pdf"
+                        }
+                    }
                 },
                 "08-bellman_ford": {
                     "metadata": {
@@ -772,7 +779,14 @@
                         "number": 7,
                         "topic": "BFS and DFS"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/07-bfs-dfs/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/07-bfs-dfs/template.zip"
+                        }
+                    }
                 },
                 "08-spd": {
                     "metadata": {
