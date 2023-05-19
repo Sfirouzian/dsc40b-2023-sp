@@ -770,6 +770,9 @@
                         "homework.pdf": {
                             "path": "homeworks/06-graphs/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/06-graphs/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/06-graphs/template.zip"
                         }
