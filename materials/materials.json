@@ -313,6 +313,9 @@
                         },
                         "slides-wang.pptx": {
                             "path": "lectures/13-dfs/slides-wang.pptx"
+                        },
+                        "slides-wang-marked.pptx": {
+                            "path": "lectures/13-dfs/slides-wang-marked.pptx"
                         }
                     }
                 },
