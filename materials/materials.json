@@ -342,7 +342,14 @@
                         "topic": "Dijkstra's Algorithm",
                         "reading": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/15-dijkstra/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/15-dijkstra/slides-wang.pptx"
+                        }
+                    }
                 },
                 "16-prim": {
                     "metadata": {
