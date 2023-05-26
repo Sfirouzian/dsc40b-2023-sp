@@ -524,6 +524,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/08-bellman_ford/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/08-bellman_ford/solution.pdf"
                         }
                     }
                 },
@@ -809,6 +812,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/07-bfs-dfs/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/07-bfs-dfs/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/07-bfs-dfs/template.zip"
