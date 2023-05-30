@@ -364,7 +364,14 @@
                             }
                         ]
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "slides-wang.pdf": {
+                            "path": "lectures/16-prim/slides-wang.pdf"
+                        },
+                        "slides-wang.pptx": {
+                            "path": "lectures/16-prim/slides-wang.pptx"
+                        }
+                    }
                 },
                 "17-kruskal": {
                     "metadata": {
