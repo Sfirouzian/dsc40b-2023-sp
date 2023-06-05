@@ -539,10 +539,9 @@
                 },
                 "09-prim_kruskal": {
                     "metadata": {
-                        "date": "2022-03-10",
+                        "date": "2023-06-08",
                         "number": 9,
-                        "topic": "Prim, Kruskal, MST",
-                        "recording": "https://youtu.be/99H79OFp59w"
+                        "topic": "Prim, Kruskal, MST"
                     },
                     "artifacts": {}
                 }
@@ -850,7 +849,7 @@
                 "09-super_homework": {
                     "metadata": {
                         "due": "2023-06-14 23:59:00",
-                        "released": "2023-06-04 23:59:00",
+                        "released": "2023-06-05 23:59:00",
                         "number": 9,
                         "topic": "Super Homework"
                     },
