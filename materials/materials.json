@@ -554,7 +554,11 @@
                         "number": 9,
                         "topic": "Prim, Kruskal, MST"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/09-prim_kruskal/discussion.pdf"
+                        }
+                    }
                 }
             }
         },
